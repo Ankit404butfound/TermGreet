@@ -1,0 +1,1 @@
+# Open terminal with style
